@@ -14,9 +14,7 @@ Download file.ipynb buka di google colabolatory (https://colab.research.google.c
 
 # Authors
 Tia Cahyani Naila Hidayah
-
 tiacahyaniapril@webmail.umm.ac.id
-
 201910370311401
 Nora Gusti Salsabila
 noragustislb@webmail.umm.ac.id

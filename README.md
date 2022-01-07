@@ -4,10 +4,13 @@ Dalam project ini kami menggunakan dataset dengan dua sample sesuai dengan jurna
 
 #Teknik Deep Leraning Yang Digunakan
 Model dengan menggunakan algoritma Transfer Learning VGG16
+
 #Jurnal Referensi
 Jurnal referensi pada proyek ini berjudul Tsabitah Ayu, Vizza Dwi, Agus Eko Minarno. 2021. "PENDIAGNOSA DAUN MANGGA DENGAN MODEL CONVULATION NEURAL NETWORK"
+
 #Cara Pengeksekusian Program
 Download file.ipynb buka di google colabolatory (https://colab.research.google.com/drive/12UeGpxciK9eLwtbswZaexlv4QfNA6uSt#scrollTo=w-6mXygikoUN)
+
 #Authors
 Tia Cahyani Naila Hidayah
 tiacahyaniapril@webmail.umm.ac.id

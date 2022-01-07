@@ -13,9 +13,14 @@ Jurnal referensi pada proyek ini berjudul Tsabitah Ayu, Vizza Dwi, Agus Eko Mina
 Download file.ipynb buka di google colabolatory (https://colab.research.google.com/drive/12UeGpxciK9eLwtbswZaexlv4QfNA6uSt#scrollTo=w-6mXygikoUN)
 
 # Authors
-Tia Cahyani Naila Hidayah
-tiacahyaniapril@webmail.umm.ac.id
-201910370311401
-Nora Gusti Salsabila
-noragustislb@webmail.umm.ac.id
-201910370311410
+1. Tia Cahyani Naila Hidayah
+
+   tiacahyaniapril@webmail.umm.ac.id
+
+   201910370311401
+   
+2. Nora Gusti Salsabila
+
+   noragustislb@webmail.umm.ac.id
+
+   201910370311410
